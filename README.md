@@ -1,5 +1,5 @@
 # Wrangle_and_Analyse_Data-Udacity-
-In this project , I wrangled and analysed data which was merged into one file but collated from three sources
+In this project , I wrangled and analysed data which was merged into one file (collated from three sources)
 
 ## Description
 The project is carried out on tweets from a popular twitter page named 'WeRateDogs'. The tweets usually contain ratings of dogs over a scale of 10. 
